@@ -1,0 +1,29 @@
+{
+  "faculdade": "FEB",
+  "departamento": "DEE",
+  "curso": "Engenharia_Eletrica",
+  "nome": "Engenharia Elétrica",
+  "pasta": "FEB/DEE/Engenharia_Eletrica",
+  "pagina": "https://www.feb.unesp.br/#!/graduacao/secao-de-graduacao/cursos-de-graduacao/engenharia-eletrica/",
+  "pagina_atualizada_em": "02/Jun/2026 11:15",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Estrutura Curricular vigente (a partir de 2023)",
+      "rotulo": "desde 2023, vigente",
+      "origem": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/cursosdegraduacao/eeletrica.pdf",
+      "pagina_atualizada_em": "02/Jun/2026 11:15",
+      "arquivo": "eeletrica.pdf",
+      "bytes": 265521
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Estrutura Curricular (Até 2022)",
+      "rotulo": "antigo",
+      "url": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/curriculo-eletrica-0303.pdf"
+    }
+  ]
+}

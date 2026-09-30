@@ -1,0 +1,39 @@
+{
+  "faculdade": "FC",
+  "departamento": "DCO",
+  "curso": "BSI",
+  "nome": "Bacharelado em Sistemas de Informação",
+  "pasta": "FC/DCO/BSI",
+  "pagina": "https://www.fc.unesp.br/#!/departamentos/computacao/cursos-de-graduao/bacharelado-em-sistemas-de-informacao/grade-curricular/",
+  "pagina_atualizada_em": "23/Fev/2026 15:42",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Curriculo 2804 (para ingressantes a partir de 2023)",
+      "rotulo": "currículo 2804, desde 2023",
+      "origem": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemsistemasdeinformacao/bsi-curriculo-2804v2.pdf",
+      "pagina_atualizada_em": "23/Fev/2026 15:42",
+      "arquivo": "bsi-curriculo-2804v2.pdf",
+      "bytes": 624209
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Curriculo 2801 (para ingressantes a partir de 1997)",
+      "rotulo": "currículo 2801, desde 1997",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemsistemasdeinformacao/bsi_curriculo2801.pdf"
+    },
+    {
+      "texto": "Curriculo 2802 (para ingressantes a partir de 2007)",
+      "rotulo": "currículo 2802, desde 2007",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemsistemasdeinformacao/bsi_curriculo2802.pdf"
+    },
+    {
+      "texto": "Curriculo 2803 (para ingressantes a partir de 2018)",
+      "rotulo": "currículo 2803, desde 2018",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemsistemasdeinformacao/bsi_curriculo_2803-2.pdf"
+    }
+  ]
+}

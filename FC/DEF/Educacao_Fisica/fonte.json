@@ -1,0 +1,91 @@
+{
+  "faculdade": "FC",
+  "departamento": "DEF",
+  "curso": "Educacao_Fisica",
+  "nome": "Educação Física (Bacharelado e Licenciatura)",
+  "pasta": "FC/DEF/Educacao_Fisica",
+  "pagina": "https://www.fc.unesp.br/#!/departamentos/dep-educacao-fisica/cursos/grade-curricular/",
+  "pagina_atualizada_em": "10/Abr/2026 11:19",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "- Currículo 2611 - Licenciatura NOTURNO (a partir de 2015);",
+      "rotulo": "currículo 2611, licenciatura noturno, desde 2015",
+      "origem": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2611---licenciatura-noturno-a-partir-de-2015.doc",
+      "pagina_atualizada_em": "10/Abr/2026 11:19",
+      "arquivo": "curriculo-2611---licenciatura-noturno-a-partir-de-2015.doc",
+      "bytes": 186880
+    },
+    {
+      "tipo": "arquivo",
+      "texto": "- Currículo 2611 - Bacharelado NOTURNO (a partir de 2015);",
+      "rotulo": "currículo 2611, bacharelado noturno, desde 2015",
+      "origem": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2611---bacharelado-noturno-a-partir-de-2015.doc",
+      "pagina_atualizada_em": "10/Abr/2026 11:19",
+      "arquivo": "curriculo-2611---bacharelado-noturno-a-partir-de-2015.doc",
+      "bytes": 211456
+    },
+    {
+      "tipo": "arquivo",
+      "texto": "- Currículo 2610 - Licenciatura INTEGRAL (a partir de 2015);",
+      "rotulo": "currículo 2610, licenciatura integral, desde 2015",
+      "origem": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2610---licenciatura-integral-a-partir-de-2015.doc",
+      "pagina_atualizada_em": "10/Abr/2026 11:19",
+      "arquivo": "curriculo-2610---licenciatura-integral-a-partir-de-2015.doc",
+      "bytes": 177152
+    },
+    {
+      "tipo": "arquivo",
+      "texto": "- Currículo 2610 - Bacharelado INTEGRAL (a partir de 2015);",
+      "rotulo": "currículo 2610, bacharelado integral, desde 2015",
+      "origem": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2610---bacharelado-integral-a-partir-de-2015.doc",
+      "pagina_atualizada_em": "10/Abr/2026 11:19",
+      "arquivo": "curriculo-2610---bacharelado-integral-a-partir-de-2015.doc",
+      "bytes": 204800
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "- Currículo 2609 - Licenciatura NOTURNO (a partir de 2012);",
+      "rotulo": "currículo 2609, licenciatura noturno, desde 2012",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2609---licenciatura-noturno-a-partir-de-2012.doc"
+    },
+    {
+      "texto": "- Currículo 2609 - Bacharelado NOTURNO (a partir de 2012);",
+      "rotulo": "currículo 2609, bacharelado noturno, desde 2012",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2609---bacharelado-noturno-a-partir-de-2012.doc"
+    },
+    {
+      "texto": "- Currículo 2608 - Licenciatura INTEGRAL (a partir de 2012);",
+      "rotulo": "currículo 2608, licenciatura integral, desde 2012",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2608---licenciatura-integral-a-partir-de-2012.doc"
+    },
+    {
+      "texto": "- Currículo 2608 - Bacharelado INTEGRAL (a partir de 2012);",
+      "rotulo": "currículo 2608, bacharelado integral, desde 2012",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2608---bacharelado-integral-a-partir-de-2012.doc"
+    },
+    {
+      "texto": "- Currículo 2607 - Licenciatura Noturno (a partir de 2006) ;",
+      "rotulo": "currículo 2607, licenciatura noturno, desde 2006",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo_educacaofisica_2607.pdf"
+    },
+    {
+      "texto": "- Currículo 2606 - Licenciatura Integral (a partir de 2006) ;",
+      "rotulo": "currículo 2606, licenciatura integral, desde 2006",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo_educacaofisica_2606.pdf"
+    },
+    {
+      "texto": "- Currículo 2605 - Licenciatura Integral (a partir de 1997) ;",
+      "rotulo": "currículo 2605, licenciatura integral, desde 1997",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo_educacaofisica_2605.pdf"
+    },
+    {
+      "texto": "- Currículo 2604 - Licenciatura Noturno (a partir de 1999) .",
+      "rotulo": "currículo 2604, licenciatura noturno, desde 1999",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo_educacaofisica_2604.pdf"
+    }
+  ]
+}

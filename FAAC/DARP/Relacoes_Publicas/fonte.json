@@ -1,0 +1,31 @@
+{
+  "faculdade": "FAAC",
+  "departamento": "DARP",
+  "curso": "Relacoes_Publicas",
+  "nome": "Relações Públicas",
+  "pasta": "FAAC/DARP/Relacoes_Publicas",
+  "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/relacoes-publicas/grade-curricular/ingressantes-a-partir-de-2023/",
+  "pagina_atualizada_em": "10/Fev/2023 15:03",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "html",
+      "texto": "Ingressantes a partir de 2023",
+      "rotulo": "desde 2023",
+      "origem": "https://www.faac.unesp.br/#!/graduacao/cursos/relacoes-publicas/grade-curricular/ingressantes-a-partir-de-2023/",
+      "pagina_atualizada_em": "10/Fev/2023 15:03",
+      "arquivo": "matriz-curricular-relacoes-publicas.html",
+      "csv": [
+        "matriz-curricular-relacoes-publicas.csv"
+      ]
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Ingressantes a partir de 2015",
+      "rotulo": "desde 2015",
+      "url": "https://www.faac.unesp.br/#!/graduacao/cursos/relacoes-publicas/grade-curricular/grade-curricular---ingressantes-2015/"
+    }
+  ]
+}

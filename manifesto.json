@@ -1,0 +1,739 @@
+{
+  "gerado_em": "2026-09-30T14:49:01",
+  "cursos": [
+    {
+      "faculdade": "FC",
+      "departamento": "DCO",
+      "curso": "BCC",
+      "nome": "Bacharelado em Ciência da Computação",
+      "pasta": "FC/DCO/BCC",
+      "pagina": "https://www.fc.unesp.br/#!/departamentos/computacao/cursos-de-graduao/bacharelado-em-ciencia-da-computacao/estrutura-curricular/",
+      "pagina_atualizada_em": "29/Ago/2025 13:55",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Currículo 2105 (a partir de 2023)",
+          "rotulo": "currículo 2105, desde 2023",
+          "origem": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemcienciadacomputacao/bcc-curriculo-2105-com-quadro-resumo.pdf",
+          "pagina_atualizada_em": "29/Ago/2025 13:55",
+          "arquivo": "bcc-curriculo-2105-com-quadro-resumo.pdf",
+          "bytes": 91504
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Currículo 2102 (a partir de 1995)",
+          "rotulo": "currículo 2102, desde 1995",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemcienciadacomputacao/bcc_curriculo2102.pdf"
+        },
+        {
+          "texto": "Currículo 2103 (a partir de 2007)",
+          "rotulo": "currículo 2103, desde 2007",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemcienciadacomputacao/bcc_curriculo_opt_novas_2103_2.pdf"
+        },
+        {
+          "texto": "Currículo 2104 (a partir de 2019)",
+          "rotulo": "currículo 2104, desde 2019",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemcienciadacomputacao/bcc_curriculo_2104v2.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FC",
+      "departamento": "DCO",
+      "curso": "BSI",
+      "nome": "Bacharelado em Sistemas de Informação",
+      "pasta": "FC/DCO/BSI",
+      "pagina": "https://www.fc.unesp.br/#!/departamentos/computacao/cursos-de-graduao/bacharelado-em-sistemas-de-informacao/grade-curricular/",
+      "pagina_atualizada_em": "23/Fev/2026 15:42",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Curriculo 2804 (para ingressantes a partir de 2023)",
+          "rotulo": "currículo 2804, desde 2023",
+          "origem": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemsistemasdeinformacao/bsi-curriculo-2804v2.pdf",
+          "pagina_atualizada_em": "23/Fev/2026 15:42",
+          "arquivo": "bsi-curriculo-2804v2.pdf",
+          "bytes": 624209
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Curriculo 2801 (para ingressantes a partir de 1997)",
+          "rotulo": "currículo 2801, desde 1997",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemsistemasdeinformacao/bsi_curriculo2801.pdf"
+        },
+        {
+          "texto": "Curriculo 2802 (para ingressantes a partir de 2007)",
+          "rotulo": "currículo 2802, desde 2007",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemsistemasdeinformacao/bsi_curriculo2802.pdf"
+        },
+        {
+          "texto": "Curriculo 2803 (para ingressantes a partir de 2018)",
+          "rotulo": "currículo 2803, desde 2018",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemsistemasdeinformacao/bsi_curriculo_2803-2.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FC",
+      "departamento": "DFM",
+      "curso": "Fisica",
+      "nome": "Física (Licenciatura e Bacharelado em Física de Materiais)",
+      "pasta": "FC/DFM/Fisica",
+      "pagina": "https://www.fc.unesp.br/#!/departamentos/fisica/cursos/fsica/grade-curricular/",
+      "pagina_atualizada_em": "24/Nov/2025 17:48",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Estrutura Curricular 1606",
+          "rotulo": "currículo 1606",
+          "origem": "https://www.fc.unesp.br/Home/Departamentos/Fisica/fisica/grade-por-termo-com-ementa-e-objetivo-2.pdf",
+          "pagina_atualizada_em": "24/Nov/2025 17:48",
+          "arquivo": "grade-por-termo-com-ementa-e-objetivo-2.pdf",
+          "bytes": 1051575
+        }
+      ],
+      "outros_curriculos_na_pagina": []
+    },
+    {
+      "faculdade": "FC",
+      "departamento": "DFM",
+      "curso": "Meteorologia",
+      "nome": "Bacharelado em Meteorologia",
+      "pasta": "FC/DFM/Meteorologia",
+      "pagina": "https://www.fc.unesp.br/#!/departamentos/fisica/cursos/meteorologia/grade-curricular/",
+      "pagina_atualizada_em": "24/Nov/2025 18:02",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "html",
+          "texto": "Grade Curricular",
+          "rotulo": "currículo 1702, bacharelado",
+          "origem": "https://www.fc.unesp.br/#!/departamentos/fisica/cursos/meteorologia/grade-curricular/",
+          "pagina_atualizada_em": "24/Nov/2025 18:02",
+          "arquivo": "grade-curricular.html",
+          "csv": []
+        }
+      ],
+      "outros_curriculos_na_pagina": []
+    },
+    {
+      "faculdade": "FC",
+      "departamento": "DM",
+      "curso": "Matematica",
+      "nome": "Licenciatura em Matemática",
+      "pasta": "FC/DM/Matematica",
+      "pagina": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1507/",
+      "pagina_atualizada_em": "11/Set/2024 16:19",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "html",
+          "texto": "1507",
+          "rotulo": "currículo 1507",
+          "origem": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1507/",
+          "pagina_atualizada_em": "11/Set/2024 16:19",
+          "arquivo": "grade-curricular-1507.html",
+          "csv": [
+            "grade-curricular-1507.csv"
+          ]
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "1506",
+          "rotulo": "currículo 1506",
+          "url": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1506/"
+        },
+        {
+          "texto": "1505 (Em Extinção)",
+          "rotulo": "currículo 1505, antigo",
+          "url": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1505/"
+        },
+        {
+          "texto": "1504 (Extinto em 2022)",
+          "rotulo": "currículo 1504, antigo",
+          "url": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1504-em-extincao/"
+        },
+        {
+          "texto": "1503 (Extinto em 2015)",
+          "rotulo": "currículo 1503, antigo",
+          "url": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1503-extinto-em-2015/"
+        }
+      ]
+    },
+    {
+      "faculdade": "FC",
+      "departamento": "DCB",
+      "curso": "Ciencias_Biologicas",
+      "nome": "Ciências Biológicas (Bacharelado e Licenciatura)",
+      "pasta": "FC/DCB/Ciencias_Biologicas",
+      "pagina": "https://www.fc.unesp.br/#!/departamentos/ciencias-biologicas/coordenacao-do-curso/grade-curricular/",
+      "pagina_atualizada_em": "04/Jan/2024 09:34",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Currículo: 2710 - Bacharelado - Integral (Vigente)",
+          "rotulo": "currículo 2710, bacharelado integral, vigente",
+          "origem": "https://drive.google.com/file/d/1bb5gQDGTUB6Ca6gxT4Ei7y66OKkB1iLA/view",
+          "pagina_atualizada_em": "04/Jan/2024 09:34",
+          "arquivo": "curriculo-2710-bacharelado-integral.pdf",
+          "bytes": 68995
+        },
+        {
+          "tipo": "arquivo",
+          "texto": "Currículo: 2711 - Licenciatura - Noturno (Vigente)",
+          "rotulo": "currículo 2711, licenciatura noturno, vigente",
+          "origem": "https://drive.google.com/file/d/1ibTD-mBm1-b9OekO2oEEZivDgMkk8yIk/view",
+          "pagina_atualizada_em": "04/Jan/2024 09:34",
+          "arquivo": "curriculo-2711-licenciatura-noturno.pdf",
+          "bytes": 70481
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Currículo: 2708 - Bacharelado (em extinção)",
+          "rotulo": "currículo 2708, bacharelado, antigo",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/CienciasBiologicas/2708b.pdf"
+        },
+        {
+          "texto": "Currículo: 2708 - Licenciatura - Integral (em extinção)",
+          "rotulo": "currículo 2708, licenciatura integral, antigo",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/CienciasBiologicas/2708l.pdf"
+        },
+        {
+          "texto": "Currículo: 2709 - Licenciatura - Noturno (em extinção)",
+          "rotulo": "currículo 2709, licenciatura noturno, antigo",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/CienciasBiologicas/2709.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FC",
+      "departamento": "DPSI",
+      "curso": "Psicologia",
+      "nome": "Psicologia (Integral e Noturno)",
+      "pasta": "FC/DPSI/Psicologia",
+      "pagina": "https://www.fc.unesp.br/#!/departamentos/psicologia/curso-de-psicologia/documentos-do-curso/",
+      "pagina_atualizada_em": "01/Mar/2024 14:04",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Currículo 1212/1213, Integral e Noturno (para ingressantes a partir de 2023)",
+          "rotulo": "currículo 1212, desde 2023",
+          "origem": "https://www.fc.unesp.br/Home/Departamentos/Psicologia/grade-curricular-curso-de-psicologia-1212-1213.pdf",
+          "pagina_atualizada_em": "01/Mar/2024 14:04",
+          "arquivo": "grade-curricular-curso-de-psicologia-1212-1213.pdf",
+          "bytes": 284579
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Currículo 1210/1211, Integral e Noturno (para ingressantes de 2007 até 2022)",
+          "rotulo": "currículo 1210, antigo",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/Psicologia/curriculo-1210-1211_psi-corrigido.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FC",
+      "departamento": "DED",
+      "curso": "Pedagogia",
+      "nome": "Licenciatura em Pedagogia",
+      "pasta": "FC/DED/Pedagogia",
+      "pagina": "https://www.fc.unesp.br/#!/cursos/pedagogia/grade-curricular/",
+      "pagina_atualizada_em": "31/Jul/2025 14:15",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Matriz curricular (para ingressantes a partir de 2023)",
+          "rotulo": "desde 2023",
+          "origem": "https://www.fc.unesp.br/Home/Cursos/Pedagogia/matriz-curricular-final---21-12-a-partir-de-2023.pdf",
+          "pagina_atualizada_em": "31/Jul/2025 14:15",
+          "arquivo": "matriz-curricular-final---21-12-a-partir-de-2023.pdf",
+          "bytes": 76796
+        }
+      ],
+      "outros_curriculos_na_pagina": []
+    },
+    {
+      "faculdade": "FC",
+      "departamento": "DEF",
+      "curso": "Educacao_Fisica",
+      "nome": "Educação Física (Bacharelado e Licenciatura)",
+      "pasta": "FC/DEF/Educacao_Fisica",
+      "pagina": "https://www.fc.unesp.br/#!/departamentos/dep-educacao-fisica/cursos/grade-curricular/",
+      "pagina_atualizada_em": "10/Abr/2026 11:19",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "- Currículo 2611 - Licenciatura NOTURNO (a partir de 2015);",
+          "rotulo": "currículo 2611, licenciatura noturno, desde 2015",
+          "origem": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2611---licenciatura-noturno-a-partir-de-2015.doc",
+          "pagina_atualizada_em": "10/Abr/2026 11:19",
+          "arquivo": "curriculo-2611---licenciatura-noturno-a-partir-de-2015.doc",
+          "bytes": 186880
+        },
+        {
+          "tipo": "arquivo",
+          "texto": "- Currículo 2611 - Bacharelado NOTURNO (a partir de 2015);",
+          "rotulo": "currículo 2611, bacharelado noturno, desde 2015",
+          "origem": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2611---bacharelado-noturno-a-partir-de-2015.doc",
+          "pagina_atualizada_em": "10/Abr/2026 11:19",
+          "arquivo": "curriculo-2611---bacharelado-noturno-a-partir-de-2015.doc",
+          "bytes": 211456
+        },
+        {
+          "tipo": "arquivo",
+          "texto": "- Currículo 2610 - Licenciatura INTEGRAL (a partir de 2015);",
+          "rotulo": "currículo 2610, licenciatura integral, desde 2015",
+          "origem": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2610---licenciatura-integral-a-partir-de-2015.doc",
+          "pagina_atualizada_em": "10/Abr/2026 11:19",
+          "arquivo": "curriculo-2610---licenciatura-integral-a-partir-de-2015.doc",
+          "bytes": 177152
+        },
+        {
+          "tipo": "arquivo",
+          "texto": "- Currículo 2610 - Bacharelado INTEGRAL (a partir de 2015);",
+          "rotulo": "currículo 2610, bacharelado integral, desde 2015",
+          "origem": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2610---bacharelado-integral-a-partir-de-2015.doc",
+          "pagina_atualizada_em": "10/Abr/2026 11:19",
+          "arquivo": "curriculo-2610---bacharelado-integral-a-partir-de-2015.doc",
+          "bytes": 204800
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "- Currículo 2609 - Licenciatura NOTURNO (a partir de 2012);",
+          "rotulo": "currículo 2609, licenciatura noturno, desde 2012",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2609---licenciatura-noturno-a-partir-de-2012.doc"
+        },
+        {
+          "texto": "- Currículo 2609 - Bacharelado NOTURNO (a partir de 2012);",
+          "rotulo": "currículo 2609, bacharelado noturno, desde 2012",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2609---bacharelado-noturno-a-partir-de-2012.doc"
+        },
+        {
+          "texto": "- Currículo 2608 - Licenciatura INTEGRAL (a partir de 2012);",
+          "rotulo": "currículo 2608, licenciatura integral, desde 2012",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2608---licenciatura-integral-a-partir-de-2012.doc"
+        },
+        {
+          "texto": "- Currículo 2608 - Bacharelado INTEGRAL (a partir de 2012);",
+          "rotulo": "currículo 2608, bacharelado integral, desde 2012",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo-2608---bacharelado-integral-a-partir-de-2012.doc"
+        },
+        {
+          "texto": "- Currículo 2607 - Licenciatura Noturno (a partir de 2006) ;",
+          "rotulo": "currículo 2607, licenciatura noturno, desde 2006",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo_educacaofisica_2607.pdf"
+        },
+        {
+          "texto": "- Currículo 2606 - Licenciatura Integral (a partir de 2006) ;",
+          "rotulo": "currículo 2606, licenciatura integral, desde 2006",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo_educacaofisica_2606.pdf"
+        },
+        {
+          "texto": "- Currículo 2605 - Licenciatura Integral (a partir de 1997) ;",
+          "rotulo": "currículo 2605, licenciatura integral, desde 1997",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo_educacaofisica_2605.pdf"
+        },
+        {
+          "texto": "- Currículo 2604 - Licenciatura Noturno (a partir de 1999) .",
+          "rotulo": "currículo 2604, licenciatura noturno, desde 1999",
+          "url": "https://www.fc.unesp.br/Home/Departamentos/depeducacaofisica/curriculo_educacaofisica_2604.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FC",
+      "departamento": "DQ",
+      "curso": "Quimica",
+      "nome": "Química (Licenciatura e Bacharelado Tecnológico)",
+      "pasta": "FC/DQ/Quimica",
+      "pagina": "https://www.fc.unesp.br/#!/departamentos/quimica/coordenacao-de-curso/dados-do-curso/",
+      "pagina_atualizada_em": "03/Jul/2026 10:17",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Matrizes e Ementário Química",
+          "rotulo": "",
+          "origem": "https://www.fc.unesp.br/Home/Departamentos/quimica201/gradescurriculares/2-matrizes-e-ementario-quimica.pdf",
+          "pagina_atualizada_em": "03/Jul/2026 10:17",
+          "arquivo": "2-matrizes-e-ementario-quimica.pdf",
+          "bytes": 392997
+        }
+      ],
+      "outros_curriculos_na_pagina": []
+    },
+    {
+      "faculdade": "FEB",
+      "departamento": "DEC",
+      "curso": "Engenharia_Civil",
+      "nome": "Engenharia Civil",
+      "pasta": "FEB/DEC/Engenharia_Civil",
+      "pagina": "https://www.feb.unesp.br/#!/graduacao/secao-de-graduacao/cursos-de-graduacao/engenharia-civil/",
+      "pagina_atualizada_em": "07/Mai/2026 10:45",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Estrutura Curricular vigente (a partir de 2023)",
+          "rotulo": "desde 2023, vigente",
+          "origem": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/cursosdegraduacao/ecivil.pdf",
+          "pagina_atualizada_em": "07/Mai/2026 10:45",
+          "arquivo": "ecivil.pdf",
+          "bytes": 294239
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Estrutura Curricular (2010-2022)",
+          "rotulo": "antigo",
+          "url": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/curriculo-civil-0103.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FEB",
+      "departamento": "DEE",
+      "curso": "Engenharia_Eletrica",
+      "nome": "Engenharia Elétrica",
+      "pasta": "FEB/DEE/Engenharia_Eletrica",
+      "pagina": "https://www.feb.unesp.br/#!/graduacao/secao-de-graduacao/cursos-de-graduacao/engenharia-eletrica/",
+      "pagina_atualizada_em": "02/Jun/2026 11:15",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Estrutura Curricular vigente (a partir de 2023)",
+          "rotulo": "desde 2023, vigente",
+          "origem": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/cursosdegraduacao/eeletrica.pdf",
+          "pagina_atualizada_em": "02/Jun/2026 11:15",
+          "arquivo": "eeletrica.pdf",
+          "bytes": 265521
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Estrutura Curricular (Até 2022)",
+          "rotulo": "antigo",
+          "url": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/curriculo-eletrica-0303.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FEB",
+      "departamento": "DEM",
+      "curso": "Engenharia_Mecanica",
+      "nome": "Engenharia Mecânica",
+      "pasta": "FEB/DEM/Engenharia_Mecanica",
+      "pagina": "https://www.feb.unesp.br/#!/graduacao/secao-de-graduacao/cursos-de-graduacao/engenharia-mecanica/",
+      "pagina_atualizada_em": "02/Abr/2025 14:52",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Estrutura Curricular vigente (a partir de 2023)",
+          "rotulo": "desde 2023, vigente",
+          "origem": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/cursosdegraduacao/emecanica.pdf",
+          "pagina_atualizada_em": "02/Abr/2025 14:52",
+          "arquivo": "emecanica.pdf",
+          "bytes": 357833
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Estrutura Curricular (até 2022)",
+          "rotulo": "antigo",
+          "url": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/curriculo-mecanica-0203.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FEB",
+      "departamento": "DEP",
+      "curso": "Engenharia_de_Producao",
+      "nome": "Engenharia de Produção",
+      "pasta": "FEB/DEP/Engenharia_de_Producao",
+      "pagina": "https://www.feb.unesp.br/#!/graduacao/secao-de-graduacao/cursos-de-graduacao/engenharia-de-producao/",
+      "pagina_atualizada_em": "14/Mai/2026 14:03",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Estrutura Curricular vigente (a partir de 2023)",
+          "rotulo": "desde 2023, vigente",
+          "origem": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/cursosdegraduacao/eproducao.pdf",
+          "pagina_atualizada_em": "14/Mai/2026 14:03",
+          "arquivo": "eproducao.pdf",
+          "bytes": 350376
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Estrutura Curricular (Até 2022)",
+          "rotulo": "antigo",
+          "url": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/curriculo-producao-4402.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FAAC",
+      "departamento": "DAUP",
+      "curso": "Arquitetura_e_Urbanismo",
+      "nome": "Arquitetura e Urbanismo",
+      "pasta": "FAAC/DAUP/Arquitetura_e_Urbanismo",
+      "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/arquitetura-e-urbanismo/grade-curricular/ingressantes-a-partir-de-2023/",
+      "pagina_atualizada_em": "27/Mai/2024 14:02",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "html",
+          "texto": "Ingressantes a partir de 2023",
+          "rotulo": "desde 2023",
+          "origem": "https://www.faac.unesp.br/#!/graduacao/cursos/arquitetura-e-urbanismo/grade-curricular/ingressantes-a-partir-de-2023/",
+          "pagina_atualizada_em": "27/Mai/2024 14:02",
+          "arquivo": "matriz-curricular-arquitetura-e-urbanismo.html",
+          "csv": [
+            "matriz-curricular-arquitetura-e-urbanismo_tabela1.csv",
+            "matriz-curricular-arquitetura-e-urbanismo_tabela2.csv"
+          ]
+        },
+        {
+          "tipo": "arquivo",
+          "texto": "Resolução Unesp 123/2023",
+          "rotulo": "desde 2023",
+          "origem": "https://www.faac.unesp.br/Home/Graduacao/Cursos/arquiteturaeurbanismo/estrutura-curricular---arquitetura-e-urbanismo---resolucao-unesp-n-123-de-09-de-novembro-de-2023..pdf",
+          "pagina_atualizada_em": "27/Mai/2024 14:02",
+          "arquivo": "estrutura-curricular---arquitetura-e-urbanismo---resolucao-unesp-n-123-de-09-de-novembro-de-2023..pdf",
+          "bytes": 204661
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Ingressantes a partir de 2012",
+          "rotulo": "desde 2012",
+          "url": "https://www.faac.unesp.br/#!/graduacao/cursos/arquitetura-e-urbanismo/grade-curricular/ingressantes-a-partir-de-2012/"
+        }
+      ]
+    },
+    {
+      "faculdade": "FAAC",
+      "departamento": "DARG",
+      "curso": "Artes_Visuais_Bacharelado",
+      "nome": "Artes Visuais - Bacharelado (Básico + Bacharelado)",
+      "pasta": "FAAC/DARG/Artes_Visuais_Bacharelado",
+      "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/artes-visuais/grade-curricular/",
+      "pagina_atualizada_em": "10/Nov/2025 14:16",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "html",
+          "texto": "Artes Visuais - Estrutura Curricular - Básico",
+          "rotulo": "currículo 2504",
+          "origem": "https://www.faac.unesp.br/#687,694",
+          "pagina_atualizada_em": "11/Nov/2025 11:08",
+          "arquivo": "artes-visuais-estrutura-curricular-basico.html",
+          "csv": [
+            "artes-visuais-estrutura-curricular-basico.csv"
+          ]
+        },
+        {
+          "tipo": "html",
+          "texto": "Artes Visuais - Estrutura Curricular - Bacharelado",
+          "rotulo": "currículo 2504, bacharelado",
+          "origem": "https://www.faac.unesp.br/#687,695",
+          "pagina_atualizada_em": "11/Nov/2025 11:18",
+          "arquivo": "artes-visuais-estrutura-curricular-bacharelado.html",
+          "csv": [
+            "artes-visuais-estrutura-curricular-bacharelado.csv"
+          ]
+        }
+      ],
+      "outros_curriculos_na_pagina": []
+    },
+    {
+      "faculdade": "FAAC",
+      "departamento": "DARG",
+      "curso": "Artes_Visuais_Licenciatura",
+      "nome": "Artes Visuais - Licenciatura (Básico + Licenciatura)",
+      "pasta": "FAAC/DARG/Artes_Visuais_Licenciatura",
+      "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/artes-visuais/grade-curricular/",
+      "pagina_atualizada_em": "10/Nov/2025 14:16",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "html",
+          "texto": "Artes Visuais - Estrutura Curricular - Básico",
+          "rotulo": "currículo 2504",
+          "origem": "https://www.faac.unesp.br/#687,694",
+          "pagina_atualizada_em": "11/Nov/2025 11:08",
+          "arquivo": "artes-visuais-estrutura-curricular-basico.html",
+          "csv": [
+            "artes-visuais-estrutura-curricular-basico.csv"
+          ]
+        },
+        {
+          "tipo": "html",
+          "texto": "Artes Visuais - Estrutura Curricular - Licenciatura",
+          "rotulo": "currículo 2504, licenciatura",
+          "origem": "https://www.faac.unesp.br/#687,696",
+          "pagina_atualizada_em": "11/Nov/2025 10:57",
+          "arquivo": "artes-visuais-estrutura-curricular-licenciatura.html",
+          "csv": [
+            "artes-visuais-estrutura-curricular-licenciatura.csv"
+          ]
+        }
+      ],
+      "outros_curriculos_na_pagina": []
+    },
+    {
+      "faculdade": "FAAC",
+      "departamento": "DARP",
+      "curso": "Comunicacao_Audiovisual",
+      "nome": "Comunicação: Rádio, TV e Internet (Audiovisual)",
+      "pasta": "FAAC/DARP/Comunicacao_Audiovisual",
+      "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/radialismo/grade-curricular/ingressantes-a-partir-de-2023/",
+      "pagina_atualizada_em": "29/Jul/2026 14:55",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "html",
+          "texto": "Ingressantes a partir de 2023",
+          "rotulo": "desde 2023",
+          "origem": "https://www.faac.unesp.br/#!/graduacao/cursos/radialismo/grade-curricular/ingressantes-a-partir-de-2023/",
+          "pagina_atualizada_em": "29/Jul/2026 14:55",
+          "arquivo": "matriz-curricular-comunicacao-radio-televisao-e-internet.html",
+          "csv": [
+            "matriz-curricular-comunicacao-radio-televisao-e-internet.csv"
+          ]
+        }
+      ],
+      "outros_curriculos_na_pagina": []
+    },
+    {
+      "faculdade": "FAAC",
+      "departamento": "DARP",
+      "curso": "Relacoes_Publicas",
+      "nome": "Relações Públicas",
+      "pasta": "FAAC/DARP/Relacoes_Publicas",
+      "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/relacoes-publicas/grade-curricular/ingressantes-a-partir-de-2023/",
+      "pagina_atualizada_em": "10/Fev/2023 15:03",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "html",
+          "texto": "Ingressantes a partir de 2023",
+          "rotulo": "desde 2023",
+          "origem": "https://www.faac.unesp.br/#!/graduacao/cursos/relacoes-publicas/grade-curricular/ingressantes-a-partir-de-2023/",
+          "pagina_atualizada_em": "10/Fev/2023 15:03",
+          "arquivo": "matriz-curricular-relacoes-publicas.html",
+          "csv": [
+            "matriz-curricular-relacoes-publicas.csv"
+          ]
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Ingressantes a partir de 2015",
+          "rotulo": "desde 2015",
+          "url": "https://www.faac.unesp.br/#!/graduacao/cursos/relacoes-publicas/grade-curricular/grade-curricular---ingressantes-2015/"
+        }
+      ]
+    },
+    {
+      "faculdade": "FAAC",
+      "departamento": "DDI",
+      "curso": "Design",
+      "nome": "Design",
+      "pasta": "FAAC/DDI/Design",
+      "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/design/grade-curricular/",
+      "pagina_atualizada_em": "13/Dez/2023 16:52",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "arquivo",
+          "texto": "Ingressantes a partir de 2024",
+          "rotulo": "desde 2024",
+          "origem": "https://www.faac.unesp.br/Home/Graduacao/Cursos/Design/matriz-curricular-2023-design-unesp.pdf",
+          "pagina_atualizada_em": "13/Dez/2023 16:52",
+          "arquivo": "matriz-curricular-2023-design-unesp.pdf",
+          "bytes": 23240
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Ingressantes em 2023",
+          "rotulo": "desde 2023",
+          "url": "https://www.faac.unesp.br/Home/Graduacao/Cursos/Design/matriz-de-transicao-curricular-2023---planilha1.pdf"
+        }
+      ]
+    },
+    {
+      "faculdade": "FAAC",
+      "departamento": "DJOR",
+      "curso": "Jornalismo",
+      "nome": "Jornalismo",
+      "pasta": "FAAC/DJOR/Jornalismo",
+      "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/jornalismo/grade-curricular/ingressantes-a-partir-de-2023/",
+      "pagina_atualizada_em": "16/Mai/2023 16:12",
+      "status": "ok",
+      "detalhe": "",
+      "estrutura_vigente": [
+        {
+          "tipo": "html",
+          "texto": "Ingressantes a partir de 2023",
+          "rotulo": "desde 2023",
+          "origem": "https://www.faac.unesp.br/#!/graduacao/cursos/jornalismo/grade-curricular/ingressantes-a-partir-de-2023/",
+          "pagina_atualizada_em": "16/Mai/2023 16:12",
+          "arquivo": "matriz-curricular-jornalismo.html",
+          "csv": [
+            "matriz-curricular-jornalismo.csv"
+          ]
+        }
+      ],
+      "outros_curriculos_na_pagina": [
+        {
+          "texto": "Ingressantes a partir de 2020",
+          "rotulo": "desde 2020",
+          "url": "https://www.faac.unesp.br/#!/graduacao/cursos/jornalismo/grade-curricular/ingressantes-a-partir-de-2020/"
+        },
+        {
+          "texto": "Ingressantes até 2019",
+          "rotulo": "antigo",
+          "url": "https://www.faac.unesp.br/#!/graduacao/cursos/jornalismo/grade-curricular/ingressantes-ate-2019/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "faculdade": "FAAC",
+  "departamento": "DARP",
+  "curso": "Comunicacao_Audiovisual",
+  "nome": "Comunicação: Rádio, TV e Internet (Audiovisual)",
+  "pasta": "FAAC/DARP/Comunicacao_Audiovisual",
+  "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/radialismo/grade-curricular/ingressantes-a-partir-de-2023/",
+  "pagina_atualizada_em": "29/Jul/2026 14:55",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "html",
+      "texto": "Ingressantes a partir de 2023",
+      "rotulo": "desde 2023",
+      "origem": "https://www.faac.unesp.br/#!/graduacao/cursos/radialismo/grade-curricular/ingressantes-a-partir-de-2023/",
+      "pagina_atualizada_em": "29/Jul/2026 14:55",
+      "arquivo": "matriz-curricular-comunicacao-radio-televisao-e-internet.html",
+      "csv": [
+        "matriz-curricular-comunicacao-radio-televisao-e-internet.csv"
+      ]
+    }
+  ],
+  "outros_curriculos_na_pagina": []
+}

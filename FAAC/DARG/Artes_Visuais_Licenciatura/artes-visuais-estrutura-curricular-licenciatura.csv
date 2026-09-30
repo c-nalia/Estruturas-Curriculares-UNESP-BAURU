@@ -1,0 +1,135 @@
+﻿2504L - Curso: Licenciatura em Artes Visuais
+Série: 2 - Período: 1
+Disciplina,CH Aceu,Carga Horária,Tipo,Requisitos,Equivalências
+ART-E 18 - Legislação e Políticas Educacionais no Brasil,,30.0,OBR,,1: 0003877 - Legislação e Políticas Educacionais no Brasil
+ART-E 19 - História do Ensino das Artes Visuais no Brasil,3.0,27.0,OBR,Correquisito: ART-E 20 - Fundamentos da Educação,
+,,,,Correquisito: ART-E 21 - Laboratório de Arte e Educação I,
+,,,,Correquisito: ART-E 22 - Didática e Prática de Ensino I,
+,,,,Correquisito: ART-E 23 - Estágio Supervisionado I,
+ART-E 20 - Fundamentos da Educação,,30.0,OBR,Correquisito: ART-E 19 - História do Ensino das Artes Visuais no Brasil,1: 0003882 - Fundamentos da Educação
+,,,,Correquisito: ART-E 21 - Laboratório de Arte e Educação I,
+,,,,Correquisito: ART-E 22 - Didática e Prática de Ensino I,
+,,,,Correquisito: ART-E 23 - Estágio Supervisionado I,
+ART-E 21 - Laboratório de Arte e Educação I,,30.0,OBR,Correquisito: ART-E 19 - História do Ensino das Artes Visuais no Brasil,
+,,,,Correquisito: ART-E 20 - Fundamentos da Educação,
+,,,,Correquisito: ART-E 22 - Didática e Prática de Ensino I,
+,,,,Correquisito: ART-E 23 - Estágio Supervisionado I,
+ART-E 22 - Didática e Prática de Ensino I,,30.0,OBR,Correquisito: ART-E 19 - História do Ensino das Artes Visuais no Brasil,1: 0003839 - Prática de Ensino : Mediações Educacionais em Arte
+,,,,Correquisito: ART-E 20 - Fundamentos da Educação,
+,,,,Correquisito: ART-E 21 - Laboratório de Arte e Educação I,
+,,,,Correquisito: ART-E 23 - Estágio Supervisionado I,
+ART-E 23 - Estágio Supervisionado I,,105.0,EST,Correquisito: ART-E 19 - História do Ensino das Artes Visuais no Brasil,1: 0003842 - Estágio Supervisionado I
+,,,,Correquisito: ART-E 20 - Fundamentos da Educação,
+,,,,Correquisito: ART-E 21 - Laboratório de Arte e Educação I,
+,,,,Correquisito: ART-E 22 - Didática e Prática de Ensino I,
+Total de Carga Horária: 255.0 (sendo 3.0 em aceus)
+Série: 2 - Período: 2
+Disciplina,CH Aceu,Carga Horária,Tipo,Requisitos,Equivalências
+ART-E 29 - Didática e Prática de Ensino II,,30.0,OBR,Pré-Requisito: ART-E 19 - História do Ensino das Artes Visuais no Brasil,1: 0003873 - Prática de Ensino: Identidade e Formação
+,,,,Pré-Requisito: ART-E 21 - Laboratório de Arte e Educação I,
+,,,,Pré-Requisito: ART-E 22 - Didática e Prática de Ensino I,
+,,,,Pré-Requisito: ART-E 23 - Estágio Supervisionado I,
+,,,,Correquisito: ART-E 31 - Estágio Supervisionado II,
+,,,,Correquisito: ART-E 32 - Ensino das Artes Visuais na Contemporaneidade I,
+,,,,Correquisito: ART-E 30 - Laboratório de Arte e Educação II,
+ART-E 30 - Laboratório de Arte e Educação II,,30.0,OBR,Pré-Requisito: ART-E 19 - História do Ensino das Artes Visuais no Brasil,
+,,,,Pré-Requisito: ART-E 21 - Laboratório de Arte e Educação I,
+,,,,Pré-Requisito: ART-E 22 - Didática e Prática de Ensino I,
+,,,,Pré-Requisito: ART-E 23 - Estágio Supervisionado I,
+,,,,Correquisito: ART-E 29 - Didática e Prática de Ensino II,
+,,,,Correquisito: ART-E 31 - Estágio Supervisionado II,
+,,,,Correquisito: ART-E 32 - Ensino das Artes Visuais na Contemporaneidade I,
+ART-E 31 - Estágio Supervisionado II,,105.0,EST,Pré-Requisito: ART-E 19 - História do Ensino das Artes Visuais no Brasil,1: 0003845 - Estágio Supervisionado II
+,,,,Pré-Requisito: ART-E 21 - Laboratório de Arte e Educação I,
+,,,,Pré-Requisito: ART-E 22 - Didática e Prática de Ensino I,
+,,,,Pré-Requisito: ART-E 23 - Estágio Supervisionado I,
+,,,,Correquisito: ART-E 29 - Didática e Prática de Ensino II,
+,,,,Correquisito: ART-E 32 - Ensino das Artes Visuais na Contemporaneidade I,
+,,,,Correquisito: ART-E 30 - Laboratório de Arte e Educação II,
+ART-E 32 - Ensino das Artes Visuais na Contemporaneidade I,6.0,24.0,OBR,Pré-Requisito: ART-E 19 - História do Ensino das Artes Visuais no Brasil,1: 0003881 - O Ensino da Arte na Contemporaneidade (Não integraliza CH de ACEU)
+,,,,Pré-Requisito: ART-E 21 - Laboratório de Arte e Educação I,
+,,,,Pré-Requisito: ART-E 22 - Didática e Prática de Ensino I,
+,,,,Pré-Requisito: ART-E 23 - Estágio Supervisionado I,
+,,,,Correquisito: ART-E 29 - Didática e Prática de Ensino II,
+,,,,Correquisito: ART-E 31 - Estágio Supervisionado II,
+,,,,Correquisito: ART-E 30 - Laboratório de Arte e Educação II,
+ART-E 33 - Psicologia da Educação,,30.0,OBR,,1: 0003871 - Psicologia da Educação
+ART-E 34 - História da Educação,,30.0,OBR,,1: 0003872 - História da Educação
+Total de Carga Horária: 255.0 (sendo 6.0 em aceus)
+Série: 3 - Período: 1
+Disciplina,CH Aceu,Carga Horária,Tipo,Requisitos,Equivalências
+ART-E 40 - Didática e Prática de Ensino III,,30.0,OBR,Pré-Requisito: ART-E 29 - Didática e Prática de Ensino II,"1: 0003846 - Prática de Ensino : Projetos Educacionais para o Ensino da Arte, 0003869 - Didática"
+,,,,Pré-Requisito: ART-E 31 - Estágio Supervisionado II,
+,,,,Pré-Requisito: ART-E 32 - Ensino das Artes Visuais na Contemporaneidade I,
+,,,,Correquisito: ART-E 41 - Laboratório de Arte e Educação III,
+,,,,Correquisito: ART-E 42 - Ensino das Artes Visuais na Contemporaneidade II,
+,,,,Correquisito: ART-E 43 - Estágio Supervisionado III,
+,,,,Pré-Requisito: ART-E 30 - Laboratório de Arte e Educação II,
+ART-E 41 - Laboratório de Arte e Educação III,,30.0,OBR,Pré-Requisito: ART-E 29 - Didática e Prática de Ensino II,
+,,,,Pré-Requisito: ART-E 31 - Estágio Supervisionado II,
+,,,,Pré-Requisito: ART-E 32 - Ensino das Artes Visuais na Contemporaneidade I,
+,,,,Correquisito: ART-E 40 - Didática e Prática de Ensino III,
+,,,,Correquisito: ART-E 42 - Ensino das Artes Visuais na Contemporaneidade II,
+,,,,Correquisito: ART-E 43 - Estágio Supervisionado III,
+,,,,Pré-Requisito: ART-E 30 - Laboratório de Arte e Educação II,
+ART-E 42 - Ensino das Artes Visuais na Contemporaneidade II,6.0,24.0,OBR,Pré-Requisito: ART-E 29 - Didática e Prática de Ensino II,
+,,,,Pré-Requisito: ART-E 31 - Estágio Supervisionado II,
+,,,,Pré-Requisito: ART-E 32 - Ensino das Artes Visuais na Contemporaneidade I,
+,,,,Correquisito: ART-E 40 - Didática e Prática de Ensino III,
+,,,,Correquisito: ART-E 41 - Laboratório de Arte e Educação III,
+,,,,Correquisito: ART-E 43 - Estágio Supervisionado III,
+,,,,Pré-Requisito: ART-E 30 - Laboratório de Arte e Educação II,
+ART-E 43 - Estágio Supervisionado III,,105.0,EST,Pré-Requisito: ART-E 29 - Didática e Prática de Ensino II,1: 0003848 - Estágio Supervisionado III
+,,,,Pré-Requisito: ART-E 31 - Estágio Supervisionado II,
+,,,,Pré-Requisito: ART-E 32 - Ensino das Artes Visuais na Contemporaneidade I,
+,,,,Correquisito: ART-E 40 - Didática e Prática de Ensino III,
+,,,,Correquisito: ART-E 41 - Laboratório de Arte e Educação III,
+,,,,Correquisito: ART-E 42 - Ensino das Artes Visuais na Contemporaneidade II,
+,,,,Pré-Requisito: ART-E 30 - Laboratório de Arte e Educação II,
+Total de Carga Horária: 195.0 (sendo 6.0 em aceus)
+Série: 3 - Período: 2
+Disciplina,CH Aceu,Carga Horária,Tipo,Requisitos,Equivalências
+ART-E 49 - Laboratório de Arte e Educação IV,,30.0,OBR,Pré-Requisito: ART-E 40 - Didática e Prática de Ensino III,
+,,,,Pré-Requisito: ART-E 41 - Laboratório de Arte e Educação III,
+,,,,Pré-Requisito: ART-E 42 - Ensino das Artes Visuais na Contemporaneidade II,
+,,,,Pré-Requisito: ART-E 43 - Estágio Supervisionado III,
+,,,,Correquisito: ART-E 50 - Estágio Supervisionado IV,
+,,,,Correquisito: ART-E 51 - Ensino das Artes Visuais na Contemporaneidade III,
+,,,,Correquisito: ART-E 52 - Didática e Prática de Ensino IV,
+ART-E 50 - Estágio Supervisionado IV,,90.0,EST,Pré-Requisito: ART-E 40 - Didática e Prática de Ensino III,1: 0003851 - Estágio Supervisionado IV
+,,,,Pré-Requisito: ART-E 41 - Laboratório de Arte e Educação III,
+,,,,Pré-Requisito: ART-E 42 - Ensino das Artes Visuais na Contemporaneidade II,
+,,,,Pré-Requisito: ART-E 43 - Estágio Supervisionado III,
+,,,,Correquisito: ART-E 51 - Ensino das Artes Visuais na Contemporaneidade III,
+,,,,Correquisito: ART-E 52 - Didática e Prática de Ensino IV,
+,,,,Correquisito: ART-E 49 - Laboratório de Arte e Educação IV,
+ART-E 51 - Ensino das Artes Visuais na Contemporaneidade III,6.0,24.0,OBR,Pré-Requisito: ART-E 40 - Didática e Prática de Ensino III,
+,,,,Pré-Requisito: ART-E 41 - Laboratório de Arte e Educação III,
+,,,,Pré-Requisito: ART-E 42 - Ensino das Artes Visuais na Contemporaneidade II,
+,,,,Pré-Requisito: ART-E 43 - Estágio Supervisionado III,
+,,,,Correquisito: ART-E 50 - Estágio Supervisionado IV,
+,,,,Correquisito: ART-E 52 - Didática e Prática de Ensino IV,
+,,,,Correquisito: ART-E 49 - Laboratório de Arte e Educação IV,
+ART-E 52 - Didática e Prática de Ensino IV,,30.0,OBR,Pré-Requisito: ART-E 40 - Didática e Prática de Ensino III,1: 0003878 - Prática de Ensino: Docência
+,,,,Pré-Requisito: ART-E 41 - Laboratório de Arte e Educação III,
+,,,,Pré-Requisito: ART-E 42 - Ensino das Artes Visuais na Contemporaneidade II,
+,,,,Pré-Requisito: ART-E 43 - Estágio Supervisionado III,
+,,,,Correquisito: ART-E 50 - Estágio Supervisionado IV,
+,,,,Correquisito: ART-E 51 - Ensino das Artes Visuais na Contemporaneidade III,
+,,,,Correquisito: ART-E 49 - Laboratório de Arte e Educação IV,
+Total de Carga Horária: 180.0 (sendo 6.0 em aceus)
+Série: 4 - Período: 1,,,,,
+Disciplina,CH Aceu,Carga Horária,Tipo,Requisitos,Equivalências
+ART-E 59 - Mediação Cultural e Educativa,6.0,24.0,OBR,,1: 0003883 - Mediação Cultural e Educativa (Não integraliza CH de ACEU)
+ART-E 60 - Sociologia da Educação,,30.0,OBR,,1: 0003884 - Sociologia da Educação
+ART-E 61 - Trabalho de Conclusão de Curso I,,90.0,TRA,Pré-Requisito: ART-E 47 - Projeto de Pesquisa em Artes Visuais,
+Total de Carga Horária: 150.0 (sendo 6.0 em aceus)
+Série: 4 - Período: 2
+Disciplina,CH Aceu,Carga Horária,Tipo,Requisitos,Equivalências
+ART-E 67 - Construção Gráfica Infantil,6.0,24.0,OBR,,1: 0003847 - Construção Gráfica Infantil (Não integraliza CH de ACEU)
+ART-E 68 - Educação Inclusiva e Libras,,60.0,OBR,,"1: EAD005 - Libras, Educação Especial e Inclusiva (Modalidade a Distância)"
+ART-E 69 - Trabalho de Conclusão de Curso II,,90.0,TRA,Pré-Requisito: ART-E 61 - Trabalho de Conclusão de Curso I,
+Total de Carga Horária: 174.0
+Total Carga Horária Obrigatória do Curso: 630.0 (sendo 33.0 em aceus)
+Total Carga Horária TCC do Curso: 180.0
+Total Carga Horária Obrigatória em Disciplinas Optativas do Curso: 0

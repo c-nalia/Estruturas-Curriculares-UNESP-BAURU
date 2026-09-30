@@ -1,0 +1,29 @@
+{
+  "faculdade": "FAAC",
+  "departamento": "DDI",
+  "curso": "Design",
+  "nome": "Design",
+  "pasta": "FAAC/DDI/Design",
+  "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/design/grade-curricular/",
+  "pagina_atualizada_em": "13/Dez/2023 16:52",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Ingressantes a partir de 2024",
+      "rotulo": "desde 2024",
+      "origem": "https://www.faac.unesp.br/Home/Graduacao/Cursos/Design/matriz-curricular-2023-design-unesp.pdf",
+      "pagina_atualizada_em": "13/Dez/2023 16:52",
+      "arquivo": "matriz-curricular-2023-design-unesp.pdf",
+      "bytes": 23240
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Ingressantes em 2023",
+      "rotulo": "desde 2023",
+      "url": "https://www.faac.unesp.br/Home/Graduacao/Cursos/Design/matriz-de-transicao-curricular-2023---planilha1.pdf"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "faculdade": "FEB",
+  "departamento": "DEM",
+  "curso": "Engenharia_Mecanica",
+  "nome": "Engenharia Mecânica",
+  "pasta": "FEB/DEM/Engenharia_Mecanica",
+  "pagina": "https://www.feb.unesp.br/#!/graduacao/secao-de-graduacao/cursos-de-graduacao/engenharia-mecanica/",
+  "pagina_atualizada_em": "02/Abr/2025 14:52",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Estrutura Curricular vigente (a partir de 2023)",
+      "rotulo": "desde 2023, vigente",
+      "origem": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/cursosdegraduacao/emecanica.pdf",
+      "pagina_atualizada_em": "02/Abr/2025 14:52",
+      "arquivo": "emecanica.pdf",
+      "bytes": 357833
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Estrutura Curricular (até 2022)",
+      "rotulo": "antigo",
+      "url": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/curriculo-mecanica-0203.pdf"
+    }
+  ]
+}

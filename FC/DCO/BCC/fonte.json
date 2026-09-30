@@ -1,0 +1,39 @@
+{
+  "faculdade": "FC",
+  "departamento": "DCO",
+  "curso": "BCC",
+  "nome": "Bacharelado em Ciência da Computação",
+  "pasta": "FC/DCO/BCC",
+  "pagina": "https://www.fc.unesp.br/#!/departamentos/computacao/cursos-de-graduao/bacharelado-em-ciencia-da-computacao/estrutura-curricular/",
+  "pagina_atualizada_em": "29/Ago/2025 13:55",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Currículo 2105 (a partir de 2023)",
+      "rotulo": "currículo 2105, desde 2023",
+      "origem": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemcienciadacomputacao/bcc-curriculo-2105-com-quadro-resumo.pdf",
+      "pagina_atualizada_em": "29/Ago/2025 13:55",
+      "arquivo": "bcc-curriculo-2105-com-quadro-resumo.pdf",
+      "bytes": 91504
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Currículo 2102 (a partir de 1995)",
+      "rotulo": "currículo 2102, desde 1995",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemcienciadacomputacao/bcc_curriculo2102.pdf"
+    },
+    {
+      "texto": "Currículo 2103 (a partir de 2007)",
+      "rotulo": "currículo 2103, desde 2007",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemcienciadacomputacao/bcc_curriculo_opt_novas_2103_2.pdf"
+    },
+    {
+      "texto": "Currículo 2104 (a partir de 2019)",
+      "rotulo": "currículo 2104, desde 2019",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/Computacao/bachareladoemcienciadacomputacao/bcc_curriculo_2104v2.pdf"
+    }
+  ]
+}

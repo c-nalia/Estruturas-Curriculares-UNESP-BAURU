@@ -1,0 +1,23 @@
+{
+  "faculdade": "FC",
+  "departamento": "DED",
+  "curso": "Pedagogia",
+  "nome": "Licenciatura em Pedagogia",
+  "pasta": "FC/DED/Pedagogia",
+  "pagina": "https://www.fc.unesp.br/#!/cursos/pedagogia/grade-curricular/",
+  "pagina_atualizada_em": "31/Jul/2025 14:15",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Matriz curricular (para ingressantes a partir de 2023)",
+      "rotulo": "desde 2023",
+      "origem": "https://www.fc.unesp.br/Home/Cursos/Pedagogia/matriz-curricular-final---21-12-a-partir-de-2023.pdf",
+      "pagina_atualizada_em": "31/Jul/2025 14:15",
+      "arquivo": "matriz-curricular-final---21-12-a-partir-de-2023.pdf",
+      "bytes": 76796
+    }
+  ],
+  "outros_curriculos_na_pagina": []
+}

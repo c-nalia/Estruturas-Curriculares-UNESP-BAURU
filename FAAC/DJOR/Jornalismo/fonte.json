@@ -1,0 +1,36 @@
+{
+  "faculdade": "FAAC",
+  "departamento": "DJOR",
+  "curso": "Jornalismo",
+  "nome": "Jornalismo",
+  "pasta": "FAAC/DJOR/Jornalismo",
+  "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/jornalismo/grade-curricular/ingressantes-a-partir-de-2023/",
+  "pagina_atualizada_em": "16/Mai/2023 16:12",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "html",
+      "texto": "Ingressantes a partir de 2023",
+      "rotulo": "desde 2023",
+      "origem": "https://www.faac.unesp.br/#!/graduacao/cursos/jornalismo/grade-curricular/ingressantes-a-partir-de-2023/",
+      "pagina_atualizada_em": "16/Mai/2023 16:12",
+      "arquivo": "matriz-curricular-jornalismo.html",
+      "csv": [
+        "matriz-curricular-jornalismo.csv"
+      ]
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Ingressantes a partir de 2020",
+      "rotulo": "desde 2020",
+      "url": "https://www.faac.unesp.br/#!/graduacao/cursos/jornalismo/grade-curricular/ingressantes-a-partir-de-2020/"
+    },
+    {
+      "texto": "Ingressantes até 2019",
+      "rotulo": "antigo",
+      "url": "https://www.faac.unesp.br/#!/graduacao/cursos/jornalismo/grade-curricular/ingressantes-ate-2019/"
+    }
+  ]
+}

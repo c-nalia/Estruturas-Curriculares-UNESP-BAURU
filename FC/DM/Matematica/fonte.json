@@ -1,0 +1,46 @@
+{
+  "faculdade": "FC",
+  "departamento": "DM",
+  "curso": "Matematica",
+  "nome": "Licenciatura em Matemática",
+  "pasta": "FC/DM/Matematica",
+  "pagina": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1507/",
+  "pagina_atualizada_em": "11/Set/2024 16:19",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "html",
+      "texto": "1507",
+      "rotulo": "currículo 1507",
+      "origem": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1507/",
+      "pagina_atualizada_em": "11/Set/2024 16:19",
+      "arquivo": "grade-curricular-1507.html",
+      "csv": [
+        "grade-curricular-1507.csv"
+      ]
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "1506",
+      "rotulo": "currículo 1506",
+      "url": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1506/"
+    },
+    {
+      "texto": "1505 (Em Extinção)",
+      "rotulo": "currículo 1505, antigo",
+      "url": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1505/"
+    },
+    {
+      "texto": "1504 (Extinto em 2022)",
+      "rotulo": "currículo 1504, antigo",
+      "url": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1504-em-extincao/"
+    },
+    {
+      "texto": "1503 (Extinto em 2015)",
+      "rotulo": "currículo 1503, antigo",
+      "url": "https://www.fc.unesp.br/#!/departamentos/matematica/graduacao/grade-curricular/1503-extinto-em-2015/"
+    }
+  ]
+}

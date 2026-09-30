@@ -1,0 +1,23 @@
+{
+  "faculdade": "FC",
+  "departamento": "DQ",
+  "curso": "Quimica",
+  "nome": "Química (Licenciatura e Bacharelado Tecnológico)",
+  "pasta": "FC/DQ/Quimica",
+  "pagina": "https://www.fc.unesp.br/#!/departamentos/quimica/coordenacao-de-curso/dados-do-curso/",
+  "pagina_atualizada_em": "03/Jul/2026 10:17",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Matrizes e Ementário Química",
+      "rotulo": "",
+      "origem": "https://www.fc.unesp.br/Home/Departamentos/quimica201/gradescurriculares/2-matrizes-e-ementario-quimica.pdf",
+      "pagina_atualizada_em": "03/Jul/2026 10:17",
+      "arquivo": "2-matrizes-e-ementario-quimica.pdf",
+      "bytes": 392997
+    }
+  ],
+  "outros_curriculos_na_pagina": []
+}

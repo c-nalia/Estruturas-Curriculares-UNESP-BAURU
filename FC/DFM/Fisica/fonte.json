@@ -1,0 +1,23 @@
+{
+  "faculdade": "FC",
+  "departamento": "DFM",
+  "curso": "Fisica",
+  "nome": "Física (Licenciatura e Bacharelado em Física de Materiais)",
+  "pasta": "FC/DFM/Fisica",
+  "pagina": "https://www.fc.unesp.br/#!/departamentos/fisica/cursos/fsica/grade-curricular/",
+  "pagina_atualizada_em": "24/Nov/2025 17:48",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Estrutura Curricular 1606",
+      "rotulo": "currículo 1606",
+      "origem": "https://www.fc.unesp.br/Home/Departamentos/Fisica/fisica/grade-por-termo-com-ementa-e-objetivo-2.pdf",
+      "pagina_atualizada_em": "24/Nov/2025 17:48",
+      "arquivo": "grade-por-termo-com-ementa-e-objetivo-2.pdf",
+      "bytes": 1051575
+    }
+  ],
+  "outros_curriculos_na_pagina": []
+}

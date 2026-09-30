@@ -1,0 +1,48 @@
+{
+  "faculdade": "FC",
+  "departamento": "DCB",
+  "curso": "Ciencias_Biologicas",
+  "nome": "Ciências Biológicas (Bacharelado e Licenciatura)",
+  "pasta": "FC/DCB/Ciencias_Biologicas",
+  "pagina": "https://www.fc.unesp.br/#!/departamentos/ciencias-biologicas/coordenacao-do-curso/grade-curricular/",
+  "pagina_atualizada_em": "04/Jan/2024 09:34",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Currículo: 2710 - Bacharelado - Integral (Vigente)",
+      "rotulo": "currículo 2710, bacharelado integral, vigente",
+      "origem": "https://drive.google.com/file/d/1bb5gQDGTUB6Ca6gxT4Ei7y66OKkB1iLA/view",
+      "pagina_atualizada_em": "04/Jan/2024 09:34",
+      "arquivo": "curriculo-2710-bacharelado-integral.pdf",
+      "bytes": 68995
+    },
+    {
+      "tipo": "arquivo",
+      "texto": "Currículo: 2711 - Licenciatura - Noturno (Vigente)",
+      "rotulo": "currículo 2711, licenciatura noturno, vigente",
+      "origem": "https://drive.google.com/file/d/1ibTD-mBm1-b9OekO2oEEZivDgMkk8yIk/view",
+      "pagina_atualizada_em": "04/Jan/2024 09:34",
+      "arquivo": "curriculo-2711-licenciatura-noturno.pdf",
+      "bytes": 70481
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Currículo: 2708 - Bacharelado (em extinção)",
+      "rotulo": "currículo 2708, bacharelado, antigo",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/CienciasBiologicas/2708b.pdf"
+    },
+    {
+      "texto": "Currículo: 2708 - Licenciatura - Integral (em extinção)",
+      "rotulo": "currículo 2708, licenciatura integral, antigo",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/CienciasBiologicas/2708l.pdf"
+    },
+    {
+      "texto": "Currículo: 2709 - Licenciatura - Noturno (em extinção)",
+      "rotulo": "currículo 2709, licenciatura noturno, antigo",
+      "url": "https://www.fc.unesp.br/Home/Departamentos/CienciasBiologicas/2709.pdf"
+    }
+  ]
+}

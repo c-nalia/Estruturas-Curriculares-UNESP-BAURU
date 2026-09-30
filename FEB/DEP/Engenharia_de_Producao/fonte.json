@@ -1,0 +1,29 @@
+{
+  "faculdade": "FEB",
+  "departamento": "DEP",
+  "curso": "Engenharia_de_Producao",
+  "nome": "Engenharia de Produção",
+  "pasta": "FEB/DEP/Engenharia_de_Producao",
+  "pagina": "https://www.feb.unesp.br/#!/graduacao/secao-de-graduacao/cursos-de-graduacao/engenharia-de-producao/",
+  "pagina_atualizada_em": "14/Mai/2026 14:03",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "arquivo",
+      "texto": "Estrutura Curricular vigente (a partir de 2023)",
+      "rotulo": "desde 2023, vigente",
+      "origem": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/cursosdegraduacao/eproducao.pdf",
+      "pagina_atualizada_em": "14/Mai/2026 14:03",
+      "arquivo": "eproducao.pdf",
+      "bytes": 350376
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Estrutura Curricular (Até 2022)",
+      "rotulo": "antigo",
+      "url": "https://www.feb.unesp.br/Home/Graduacao137/secaodegraduacao/curriculo-producao-4402.pdf"
+    }
+  ]
+}

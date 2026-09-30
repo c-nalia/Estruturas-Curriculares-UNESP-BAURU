@@ -1,0 +1,81 @@
+﻿Ingressantes a partir de 2023 Estrutura 2205
+Série: 1 - Período: 1
+Disciplina,Carga Horária,Tipo,Requisitos,Equivalências
+"JOR-E 01 - Jornalismo, Tecnologia e Conhecimento",60.0,OBR,,"1: JOR001 - Jornalismo, Tecnologia e Conhecimento"
+JOR-E 02 - História do Jornalismo,60.0,OBR,,1: JOR002 - História do Jornalismo
+JOR-E 03 - Gêneros Jornalísticos,30.0,OBR,,1: JOR003 - Gêneros Jornalísticos
+JOR-E 04 - Apuração Jornalística,60.0,OBR,,1: JOR004 - Apuração Jornalística
+JOR-E 05 - Narrativa Jornalística Sonora,60.0,OBR,,1: JOR005 - Narrativa Jornalística Sonora
+JOR-E 06 - Filosofia,30.0,OBR,,1: JOR006 - Filosofia
+Total de Carga Horária: 300.0
+Série: 1 - Período: 2
+Disciplina,Carga Horária,Tipo,Requisitos,Equivalências
+JOR-E 07 - Narrativa Imagética,60.0,OBR,,1: JOR007 - Narrativa Imagética
+JOR-E 08 - Jornalismo Textual,60.0,OBR,,1: JOR008 - Jornalismo Textual
+JOR-E 09 - Laboratório em Jornalismo Sonoro,60.0,OBR,Pré-Requisito: JOR-E 05 - Narrativa Jornalística Sonora,1: JOR009 - Laboratório em Jornalismo Sonoro
+JOR-E 10 - Métodos de Pesquisa em Jornalismo,60.0,OBR,,1: JOR010 - Métodos de Pesquisa em Jornalismo
+JOR-E 11 - Introdução aos Estudos da Linguagem,60.0,OBR,,1: JOR011 - Introdução aos Estudos da Linguagem
+Total de Carga Horária: 300.0
+Série: 2 - Período: 1
+Disciplina,Carga Horária,Tipo,Requisitos,Equivalências
+JOR-E 12 - Laboratório em Produção Imagética,60.0,OBR,Pré-Requisito: JOR-E 07 - Narrativa Imagética,1: JOR012 - Laboratório em Produção Imagética
+JOR-E 13 - Laboratório de Jornalismo Textual,90.0,OBR,Pré-Requisito: JOR-E 08 - Jornalismo Textual,1: JOR013 - Laboratório de Jornalismo Textual
+Correquisito: JOR-E 14 - Design da Informação no Jornalismo
+JOR-E 14 - Design da Informação no Jornalismo,60.0,OBR,Correquisito: JOR-E 13 - Laboratório de Jornalismo Textual,1: JOR014 - Design da Informação no Jornalismo
+JOR-E 15 - Teorias do Jornalismo,60.0,OBR,,1: JOR015 - Teorias do Jornalismo
+JOR-E 16 - Elementos de Análise do Discurso,60.0,OBR,,1: JOR016 - Elementos de Análise do Discurso
+Total de Carga Horária: 330.0
+Série: 2 - Período: 2
+Disciplina,Carga Horária,Tipo,Requisitos,Equivalências
+JOR-E 17 - Pensamento Jornalístico na América Latina,60.0,OBR,,1: JOR017 - Pensamento Jornalístico na América Latina
+"JOR-E 18 - Jornalismo, Criatividade e Inovação",60.0,OBR,,"1: JOR018 - Jornalismo, Criatividade e Inovação"
+JOR-E 19 - Jornalismo Audiovisual,60.0,OBR,,1: JOR019 - Jornalismo Audiovisual
+JOR-E 20 - Jornalismo Digital,60.0,OBR,,1: JOR020 - Jornalismo On-line
+JOR-E 21 - Sociologia e Comunicação,60.0,OBR,,1: JOR021 - Sociologia e Comunicação
+Total de Carga Horária: 300.0
+Série: 3 - Período: 1
+Disciplina,Carga Horária,Tipo,Requisitos,Equivalências
+JOR-E 22 - Laboratório de Jornalismo Digital,60.0,OBR,Pré-Requisito: JOR-E 20 - Jornalismo Digital,1: JOR022 - Laboratório em Jornalismo On-line
+JOR-E 23 - Laboratório em Estética e Produção do Gênero Documentário,60.0,OBR,Pré-Requisito: JOR-E 19 - Jornalismo Audiovisual,1: JOR023 - Laboratório em Estética e Produção do Gênero Documentário
+JOR-E 24 - Deontologia do Jornalismo,30.0,OBR,,1: JOR024 - Deontologia do Jornalismo
+JOR-E 25 - Direito e Legislação,30.0,OBR,,1: JOR025 - Direito e Legislação
+JOR-E 26 - História Social do Brasil,60.0,OBR,,1: JOR026 - História Social do Brasil
+JOR-E 27 - Ética,30.0,OBR,,1: JOR027 - Ética
+JOR-E 28 - Introdução à Psicologia,30.0,OBR,,1: JOR028 - Introdução à Psicologia
+Total de Carga Horária: 300.0
+Série: 3 - Período: 2
+Disciplina,Carga Horária,Tipo,Requisitos,Equivalências
+JOR-E 29 - Assessoria de Imprensa e Comunicação,60.0,OBR,,1: JOR029 - Assessoria de Imprensa e Comunicação
+JOR-E 30 - Jornalismo Especializado I - Jornalismo Informativo,60.0,OBR,,1: JOR030 - Jornalismo Especializado I - Jornalismo Informativo
+"JOR-E 31 - Psicologia, Mídia e Cultura",30.0,OBR,Pré-Requisito: JOR-E 28 - Introdução à Psicologia,"1: JOR031 - Psicologia, Mídia e Cultura"
+JOR-E 32 - Filosofia da Comunicação,30.0,OBR,,1: JOR032 - Filosofia da Comunicação
+JOR-E 33 - Estado e Sociedade no Brasil Contemporâneo,60.0,OBR,,1: JOR033 - Estado e Sociedade no Brasil Contemporâneo
+JOR-E 34 - Linguagem da Comunicação Impressa,60.0,OBR,,1: JOR034 - Linguagem da Comunicação Impressa
+JOR-E 35 - Estágio Supervisionado,210.0,EST,,
+Total de Carga Horária: 510.0
+Série: 4 - Período: 1
+Disciplina,Carga Horária,Tipo,Requisitos,Equivalências
+JOR-E 36 - Desenvolvimento de Produto Jornalístico,60.0,OBR,,1: JOR035 - Desenvolvimento de Produto Jornalístico
+JOR-E 37 - Jornalismo Especializado II - Jornalismo Opinativo,60.0,OBR,,1: JOR036 - Jornalismo Especializado II - Jornalismo Opinativo
+JOR-E 38 - Jornalismo de Dados,60.0,OBR,,1: JOR037 - Jornalismo de Dados
+"JOR-E 39 - Cidade, Território e Conflitos Sociais",60.0,OBR,,"1: JOR038 - Cidade, Território e Conflitos Sociais"
+JOR-E 40 - Linguagem da Comunicação Sonora e Audiovisual,60.0,OBR,,1: JOR039 - Linguagem da Comunicação Sonora e Audiovisual
+Total de Carga Horária: 300.0
+Série: 4 - Período: 2
+Disciplina,Carga Horária,Tipo,Requisitos,Equivalências
+JOR-E 41 - TCC I: orientação,105.0,TRA,,
+JOR-E 42 - Semiótica da Comunicação,30.0,OBR,,1: JOR041 - Semiótica da Comunicação
+JOR-E 43 - Gestão de Produto Jornalístico,60.0,OBR,,1: JOR042 - Gestão de Produto Jornalístico
+JOR-E 44 - Inglês Acadêmico e Profissional para Jornalistas,60.0,OBR,,1: JOR043 - Inglês Acadêmico e Profissional para Jornalistas
+JOR-E 45 - Teoria e Análise da Narrativa Literária,60.0,OBR,,1: JOR044 - Teoria e Análise da Narrativa Literária
+JOR-E 46 - Antropologia Cultural e Mídia,60.0,OBR,,1: JOR045 - Antropologia Cultural e Mídia
+Total de Carga Horária: 375.0
+Série: 5 - Período: 1
+Disciplina,Carga Horária,Tipo,Requisitos,Equivalências
+"JOR-E 47 - Economia Política da Comunicação, Informação e Cultura",60.0,OBR,,"1: JOR046 - Economia Política da Comunicação, Informação e Cultura"
+JOR-E 48 - Narrativas Literárias e Outras Linguagens da Contemporaneidade,60.0,OBR,,1: JOR047 - Narrativas Literárias e Outras Linguagens da Contemporaneidade
+JOR-E 49 - Cultura Brasileira e Comunicação,60.0,OBR,,1: JOR048 - Cultura Brasileira e Comunicação
+JOR-E 50 - TCC II: execução,210.0,TRA,,
+Total de Carga Horária: 390.0
+Total Carga Horária Obrigatória do Curso: 2580.0
+Total Carga Horária Obrigatória em Disciplinas Optativas do Curso: 0

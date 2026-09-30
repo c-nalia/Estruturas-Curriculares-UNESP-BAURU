@@ -1,0 +1,23 @@
+{
+  "faculdade": "FC",
+  "departamento": "DFM",
+  "curso": "Meteorologia",
+  "nome": "Bacharelado em Meteorologia",
+  "pasta": "FC/DFM/Meteorologia",
+  "pagina": "https://www.fc.unesp.br/#!/departamentos/fisica/cursos/meteorologia/grade-curricular/",
+  "pagina_atualizada_em": "24/Nov/2025 18:02",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "html",
+      "texto": "Grade Curricular",
+      "rotulo": "currículo 1702, bacharelado",
+      "origem": "https://www.fc.unesp.br/#!/departamentos/fisica/cursos/meteorologia/grade-curricular/",
+      "pagina_atualizada_em": "24/Nov/2025 18:02",
+      "arquivo": "grade-curricular.html",
+      "csv": []
+    }
+  ],
+  "outros_curriculos_na_pagina": []
+}

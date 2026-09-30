@@ -1,0 +1,41 @@
+{
+  "faculdade": "FAAC",
+  "departamento": "DAUP",
+  "curso": "Arquitetura_e_Urbanismo",
+  "nome": "Arquitetura e Urbanismo",
+  "pasta": "FAAC/DAUP/Arquitetura_e_Urbanismo",
+  "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/arquitetura-e-urbanismo/grade-curricular/ingressantes-a-partir-de-2023/",
+  "pagina_atualizada_em": "27/Mai/2024 14:02",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "html",
+      "texto": "Ingressantes a partir de 2023",
+      "rotulo": "desde 2023",
+      "origem": "https://www.faac.unesp.br/#!/graduacao/cursos/arquitetura-e-urbanismo/grade-curricular/ingressantes-a-partir-de-2023/",
+      "pagina_atualizada_em": "27/Mai/2024 14:02",
+      "arquivo": "matriz-curricular-arquitetura-e-urbanismo.html",
+      "csv": [
+        "matriz-curricular-arquitetura-e-urbanismo_tabela1.csv",
+        "matriz-curricular-arquitetura-e-urbanismo_tabela2.csv"
+      ]
+    },
+    {
+      "tipo": "arquivo",
+      "texto": "Resolução Unesp 123/2023",
+      "rotulo": "desde 2023",
+      "origem": "https://www.faac.unesp.br/Home/Graduacao/Cursos/arquiteturaeurbanismo/estrutura-curricular---arquitetura-e-urbanismo---resolucao-unesp-n-123-de-09-de-novembro-de-2023..pdf",
+      "pagina_atualizada_em": "27/Mai/2024 14:02",
+      "arquivo": "estrutura-curricular---arquitetura-e-urbanismo---resolucao-unesp-n-123-de-09-de-novembro-de-2023..pdf",
+      "bytes": 204661
+    }
+  ],
+  "outros_curriculos_na_pagina": [
+    {
+      "texto": "Ingressantes a partir de 2012",
+      "rotulo": "desde 2012",
+      "url": "https://www.faac.unesp.br/#!/graduacao/cursos/arquitetura-e-urbanismo/grade-curricular/ingressantes-a-partir-de-2012/"
+    }
+  ]
+}

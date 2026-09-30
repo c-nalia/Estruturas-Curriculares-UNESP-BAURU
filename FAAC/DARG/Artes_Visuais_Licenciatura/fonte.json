@@ -1,0 +1,36 @@
+{
+  "faculdade": "FAAC",
+  "departamento": "DARG",
+  "curso": "Artes_Visuais_Licenciatura",
+  "nome": "Artes Visuais - Licenciatura (Básico + Licenciatura)",
+  "pasta": "FAAC/DARG/Artes_Visuais_Licenciatura",
+  "pagina": "https://www.faac.unesp.br/#!/graduacao/cursos/artes-visuais/grade-curricular/",
+  "pagina_atualizada_em": "10/Nov/2025 14:16",
+  "status": "ok",
+  "detalhe": "",
+  "estrutura_vigente": [
+    {
+      "tipo": "html",
+      "texto": "Artes Visuais - Estrutura Curricular - Básico",
+      "rotulo": "currículo 2504",
+      "origem": "https://www.faac.unesp.br/#687,694",
+      "pagina_atualizada_em": "11/Nov/2025 11:08",
+      "arquivo": "artes-visuais-estrutura-curricular-basico.html",
+      "csv": [
+        "artes-visuais-estrutura-curricular-basico.csv"
+      ]
+    },
+    {
+      "tipo": "html",
+      "texto": "Artes Visuais - Estrutura Curricular - Licenciatura",
+      "rotulo": "currículo 2504, licenciatura",
+      "origem": "https://www.faac.unesp.br/#687,696",
+      "pagina_atualizada_em": "11/Nov/2025 10:57",
+      "arquivo": "artes-visuais-estrutura-curricular-licenciatura.html",
+      "csv": [
+        "artes-visuais-estrutura-curricular-licenciatura.csv"
+      ]
+    }
+  ],
+  "outros_curriculos_na_pagina": []
+}
